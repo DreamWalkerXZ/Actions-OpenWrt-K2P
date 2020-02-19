@@ -4,7 +4,7 @@
 
 Use Github Actions to automatically compile Lienol's Modified OpenWrt source for K2P
 
-## Usage
+## Usages
 
 The build process will be triggered when:
 
@@ -14,6 +14,19 @@ The build process will be triggered when:
 - This repository was starred
 
 When the build is complete, click the Artifacts button in the upper right corner of the Actions page to download the binaries.
+
+## Features
+
+- PassWall
+- Flow Offload (Turbo ACC)
+- DDNS
+- You can find more in the `.config` file
+
+## Screenshots
+
+![luci_admin_status_overview](https://i.loli.net/2020/02/19/H87v1qBaoTbJXiN.png)
+
+![luci_admin_vpn_passwall](https://i.loli.net/2020/02/19/GP7pya2oQgI4CO6.png)
 
 ## Acknowledgments
 
