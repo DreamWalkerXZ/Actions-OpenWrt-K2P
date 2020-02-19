@@ -11,7 +11,6 @@ The build process will be triggered when:
 - It's 8:00 on Friday
 - A new push was made to the master branch
 - A new release was published
-- This repository was starred
 
 When the build is complete, click the Artifacts button in the upper right corner of the Actions page to download the binaries.
 
