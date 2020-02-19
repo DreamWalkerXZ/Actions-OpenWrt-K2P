@@ -15,6 +15,8 @@ The build process will be triggered when:
 
 When the build is complete, click the Artifacts button in the upper right corner of the Actions page to download the binaries.
 
+Telegram Release Channel: [🚀k2ppasswall](https://t.me/k2ppasswall)
+
 ## Features
 
 - PassWall
