@@ -1,37 +1,37 @@
 # Actions-OpenWrt-Lienol-K2P
 
-> This repository is generated from P3TERX/Actions-OpenWrt
-
-[中文版README](https://github.com/DreamWalkerXZ/Actions-OpenWrt-Lienol-K2P/blob/master/README.zh_CN.md)
+> 这个仓库使用P3TERX/Actions-OpenWrt这一模板生成
 
 Use Github Actions to automatically compile Lienol's Modified OpenWrt source for K2P
+用Github Actions为K2P自动编译Lienol修改的OpenWrt
 
-## Usages
+## 用法
 
 The build process will be triggered when:
+编译会在以下任意条件被触发时执行：
 
-- It's 12:00 PM on Friday (Using China Standard Time)
-- A new push was made to the master branch\'s ```.config``` file
-- A new release was published
+- 当时间为北京时间星期五的中午12点
+- 当有新的push修改了`.config`文件
+- 当有一个新的Release发布
 
-When the build is complete, click the Artifacts button in the upper right corner of the Actions page to download the binaries.
+当编译完成后，在Actions页面的右上角，点击Artifacts按钮下载编译出的固件
 
-Telegram Release Channel: [🚀k2ppasswall](https://t.me/k2ppasswall)
+Telegram频道: [🚀k2ppasswall](https://t.me/k2ppasswall)
 
-## Features
+## 功能
 
 - PassWall
 - Flow Offload (Turbo ACC)
 - DDNS
-- You can find more in the `.config` file
+- 你还可以在`.config`文件中找到更多
 
-## Screenshots
+## 截图
 
 ![luci_admin_status_overview](https://i.loli.net/2020/02/19/H87v1qBaoTbJXiN.png)
 
 ![luci_admin_vpn_passwall](https://i.loli.net/2020/02/19/GP7pya2oQgI4CO6.png)
 
-## Acknowledgments
+## 感谢
 
 - [Microsoft](https://www.microsoft.com)
 - [Microsoft Azure](https://azure.microsoft.com)
@@ -45,6 +45,6 @@ Telegram Release Channel: [🚀k2ppasswall](https://t.me/k2ppasswall)
 - [Lienol's Modified OpenWrt source](https://github.com/Lienol/openwrt)
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
-## License
+## 许可
 
 [MIT & GPLv3](https://github.com/DreamWalkerXZ/Actions-OpenWrt-Lienol-K2P/blob/master/LICENSE)
