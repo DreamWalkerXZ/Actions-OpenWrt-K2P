@@ -2,12 +2,10 @@
 
 > 这个仓库使用P3TERX/Actions-OpenWrt这一模板生成
 
-Use Github Actions to automatically compile Lienol's Modified OpenWrt source for K2P
-用Github Actions为K2P自动编译Lienol修改的OpenWrt
+用Github Actions为K2P自动编译Lienol修改的OpenWrt（基于dev-19.07分支）
 
 ## 用法
 
-The build process will be triggered when:
 编译会在以下任意条件被触发时执行：
 
 - 当时间为北京时间星期五的中午12点
