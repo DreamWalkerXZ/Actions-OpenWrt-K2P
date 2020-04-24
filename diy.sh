@@ -8,3 +8,5 @@ echo "/etc/wireless/" >> package/base-files/files/etc/sysupgrade.conf
 
 # Add helloworld
 echo "src-git helloworld https://github.com/DreamWalkerXZ/helloworld.git" >> feeds.conf.default
+./scripts/feeds update -a
+./scripts/feeds install -a
