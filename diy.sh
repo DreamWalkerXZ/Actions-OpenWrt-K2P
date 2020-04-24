@@ -5,3 +5,6 @@ sed -i "s/19.07-SNAPSHOT/19.07-SNAPSHOT-[${cid}]/g" package/default-settings/fil
 # Make Wi-Fi configuration persistent
 echo "\n# Make Wi-Fi configuration persistent" >> package/base-files/files/etc/sysupgrade.conf
 echo "/etc/wireless/" >> package/base-files/files/etc/sysupgrade.conf
+
+# Add helloworld
+echo "src-git helloworld https://github.com/DreamWalkerXZ/helloworld.git" >> feeds.conf.default
