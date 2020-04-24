@@ -7,6 +7,6 @@ echo "\n# Make Wi-Fi configuration persistent" >> package/base-files/files/etc/s
 echo "/etc/wireless/" >> package/base-files/files/etc/sysupgrade.conf
 
 # Add helloworld
-echo "src-git helloworld https://github.com/DreamWalkerXZ/helloworld.git" >> feeds.conf.default
+echo "src-git helloworld https://github.com/DreamWalkerXZ/helloworld" >> feeds.conf.default
 ./scripts/feeds update -a
 ./scripts/feeds install -a
