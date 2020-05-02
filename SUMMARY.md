@@ -4,7 +4,7 @@
 
 ## 教程 <a id="tutorial"></a>
 
-* [如何安装自定义软件包](tutorial/how-to-install-custom-package.md)
+* [如何安装自定义软件包](tutorial/how-to-install-custom-packages.md)
 
 ## 常见问题解答 <a id="q-and-a"></a>
 
