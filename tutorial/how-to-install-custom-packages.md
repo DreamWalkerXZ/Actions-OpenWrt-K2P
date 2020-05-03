@@ -12,20 +12,20 @@
 
 ⚠️就算你选了"保留配置"，自定义软件包会在系统升级时被清除
 
-## 软件包名称&lt;-&gt;功能对查表
+## 软件包名称&lt;-&gt;功能对查表\[2020-05-02\]
 
-| 名称 | 功能 |
-| :--- | :--- |
-| luci-app-accesscontrol | 访问时间控制 |
-| luci-app-adbyby-plus | 广告屏蔽大师 Plus + |
-| luci-app-ddns | 动态域名 DNS |
-| luci-app-frpc | 内网穿透 Frp |
-| luci-app-nlbwmon | 网络带宽监视器 |
-| luci-app-ramfree | 释放内存 |
-| luci-app-sqm | 流量智能队列管理（QOS） |
-| luci-app-syncdial | 多拨 |
-| luci-app-vlmcsd | KMS 服务器设置 |
-| luci-app-wol | WOL 网络唤醒 |
-| luci-app-wrtbwmon | 实时流量监测 |
-| luci-app-zerotier | ZeroTier 内网穿透 |
+| 名称 | 功能 | 可用性 |
+| :--- | :--- | :--- |
+| luci-app-accesscontrol | 访问时间控制 | ✅ |
+| luci-app-adbyby-plus | 广告屏蔽大师 Plus + | ✅ |
+| luci-app-ddns | 动态域名 DNS | ✅ |
+| luci-app-frpc | 内网穿透 Frp | ❓ |
+| luci-app-nlbwmon | 网络流量统计 | ✅ |
+| luci-app-ramfree | 释放内存 | ✅ |
+| luci-app-sqm | 流量智能队列管理（QoS） | ❌ |
+| luci-app-syncdial | 多拨 | ✅ |
+| luci-app-vlmcsd | KMS 服务器 | ✅ |
+| luci-app-wol | WOL 网络唤醒 | ✅ |
+| luci-app-wrtbwmon | 实时流量监测 | ✅ |
+| luci-app-zerotier | ZeroTier 内网穿透 | ❓ |
 
