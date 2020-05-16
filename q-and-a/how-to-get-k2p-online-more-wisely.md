@@ -8,5 +8,3 @@
 
 注：本频道固件用ssr协议极限速率在70mbps左右，可以轻松油管4k60fps
 
-> 恰饭环节：有机场需求的同学，可以考虑我推广的机场——\[🚀少数派\]\([https://ssplive.pw/auth/register?code=v102](https://ssplive.pw/auth/register?code=v102)\)，算是支持一下我，让频道持久地运行下去。本频道固件用ssr协议能跑70mbps左右，已经可以轻松油管4k60fps了。（受限于k2p本身的性能，但是实际上这个机场是可以稳定在300甚至500mbps的。）
-
