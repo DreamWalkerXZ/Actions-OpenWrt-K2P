@@ -28,4 +28,11 @@
 | luci-app-wol | WOL 网络唤醒 | ✅ |
 | luci-app-wrtbwmon | 实时流量监测 | ✅ |
 | luci-app-zerotier | ZeroTier 内网穿透 | ❓ |
+| luci-app-netdata | Netdata 实时监控 | ❓ |
+| luci-app-ipsec-vpnd | IPSec VPN客户端 | ❓ |
+| luci-app-control-timewol | 来自KoolShare的Timewol | ❓ |
+| luci-app-control-webrestriction | 来自KoolShare的Webrestriction | ❓ |
+| luci-app-control-weburl | 来自KoolShare的Weburl | ❓ |
+| luci-app-fileassistant | 文件助手（可在线查看路由器上的文件） | ❓ |
+| luci-app-xlnetacc | 迅雷快鸟 | ❓ |
 
