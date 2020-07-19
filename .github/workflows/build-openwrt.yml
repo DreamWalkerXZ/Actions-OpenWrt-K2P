@@ -9,8 +9,8 @@ on:
       - master
     paths:
       - '.config'
-  schedule:
-    - cron: 0 4 * * 6 # 北京时间每周六中午12:00编译
+#   schedule:
+#     - cron: 0 4 * * 6 # 北京时间每周六中午12:00编译
   watch:
     types: started
 
