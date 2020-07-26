@@ -6,6 +6,10 @@
 
 Telegram频道: [🚀k2ppasswall](https://t.me/k2ppasswall)
 
+固件存档: [🚀DreamWalkerXZ's K2P FirmWare](https://k2p.dreamwalkerxz.ski/)
+
+固件软件源: [🚀DreamWalkerXZ's K2P FirmWare Repo](https://k2p-repo.dreamwalkerxz.ski/)
+
 ## 特性
 
 * PassWall
