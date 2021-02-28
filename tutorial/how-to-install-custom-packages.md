@@ -12,27 +12,23 @@
 
 ⚠️就算你选了"保留配置"，自定义软件包会在系统升级时被清除
 
-## 软件包名称&lt;-&gt;功能对查表\[2020-05-02\]
+## 软件包名称&lt;-&gt;功能对查表\[2021-02-28\]
 
-| 名称 | 功能 | 可用性 |
-| :--- | :--- | :--- |
-| luci-app-accesscontrol | 访问时间控制 | ✅ |
-| luci-app-adbyby-plus | 广告屏蔽大师 Plus + | ✅ |
-| luci-app-ddns | 动态域名 DNS | ✅ |
-| luci-app-frpc | 内网穿透 Frp | ❓ |
-| luci-app-nlbwmon | 网络流量统计 | ✅ |
-| luci-app-ramfree | 释放内存 | ✅ |
-| luci-app-sqm | 流量智能队列管理（QoS） | ❌ |
-| luci-app-syncdial | 多拨 | ✅ |
-| luci-app-vlmcsd | KMS 服务器 | ✅ |
-| luci-app-wol | WOL 网络唤醒 | ✅ |
-| luci-app-wrtbwmon | 实时流量监测 | ✅ |
-| luci-app-zerotier | ZeroTier 内网穿透 | ❓ |
-| luci-app-netdata | Netdata 实时监控 | ❓ |
-| luci-app-ipsec-vpnd | IPSec VPN客户端 | ❓ |
-| luci-app-control-timewol | 来自KoolShare的Timewol | ❓ |
-| luci-app-control-webrestriction | 来自KoolShare的Webrestriction | ❓ |
-| luci-app-control-weburl | 来自KoolShare的Weburl | ❓ |
-| luci-app-fileassistant | 文件助手（可在线查看路由器上的文件） | ❓ |
-| luci-app-xlnetacc | 迅雷快鸟 | ❓ |
+| 名称 | 功能 |
+| :--- | :--- |
+| luci-app-adbyby-plus | 广告屏蔽大师 Plus + |
+| luci-app-ddns | 动态域名 DNS |
+| luci-app-frpc | 内网穿透 Frp 客户端 |
+| luci-app-frps | 内网穿透 Frp 服务端 |
+| luci-app-nps | 内网穿透 nps |
+| luci-app-n2n\_v2 | 内网穿透 n2n |
+| luci-app-ttyd | 网页终端 |
+| luci-app-unblockmusic | 网易云音乐解锁 |
+| luci-app-uugamebooster | UU加速器 |
+| luci-app-sqm | 流量智能队列管理（QoS） |
+| luci-app-syncdial | 多拨 |
+| luci-app-vlmcsd | KMS 服务器 |
+| luci-app-zerotier | ZeroTier 内网穿透 |
+| luci-app-netdata | Netdata 实时监控 |
+| luci-app-xlnetacc | 迅雷快鸟 |
 
