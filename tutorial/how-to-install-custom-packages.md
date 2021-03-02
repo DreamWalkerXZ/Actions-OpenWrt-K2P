@@ -18,6 +18,7 @@
 | :--- | :--- |
 | luci-app-adbyby-plus | 广告屏蔽大师 Plus + |
 | luci-app-ddns | 动态域名 DNS |
+| ddns-scripts\_aliyun等 | 动态域名 DNS 附加插件（aliyun,dnspod等） |
 | luci-app-frpc | 内网穿透 Frp 客户端 |
 | luci-app-frps | 内网穿透 Frp 服务端 |
 | luci-app-nps | 内网穿透 nps |
