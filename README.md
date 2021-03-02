@@ -4,7 +4,9 @@
 
 用Github Actions为K2P自动编译固件
 
-Telegram频道: [🚀k2ppasswall](https://t.me/k2ppasswall)
+固件文档: 🚀[gitbook](https://dreamwalkerxz.gitbook.io/k2p-docs/)
+
+Telegram频道: 🚀[k2pfirmware](https://t.me/k2pfirmware)
 
 ## 特性
 
@@ -27,3 +29,4 @@ Telegram频道: [🚀k2ppasswall](https://t.me/k2ppasswall)
 ## 截图
 
 ![luci\_admin\_status\_overview](https://i.loli.net/2020/04/26/6TCfqUzPX9aLjyk.png)
+
