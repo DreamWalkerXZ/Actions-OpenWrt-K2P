@@ -4,8 +4,6 @@
 
 用Github Actions为K2P自动编译固件
 
-固件文档: 🚀[gitbook](https://dreamwalkerxz.gitbook.io/k2p-docs/)
-
 Telegram频道: 🚀[k2pfirmware](https://t.me/k2pfirmware)
 
 ## 特性
