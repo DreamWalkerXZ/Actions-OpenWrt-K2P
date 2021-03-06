@@ -23,7 +23,7 @@ Telegram频道: 🚀[k2pfirmware](https://t.me/k2pfirmware)
 4. 进入breed，选择⚠️斐讯布局⚠️刷入压缩包中含`sysupgrade`字样的文件
 5. | 项目 | 值 |
    | :--- | :--- |
-   | 默认后台地址 | `192.168.1.1` |
+   | 默认后台地址 | `10.0.0.1` |
    | 默认后台密码 | `password` |
 
 ## 截图
