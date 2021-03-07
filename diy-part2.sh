@@ -18,4 +18,4 @@ rm -rf package/lean/luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  package/lean/luci-theme-argon
 
 # Change opkg source
-echo "sed -i 's#https://mirrors.cloud.tencent.com/lede/snapshots#https://k2p-repo.dreamwalkerxz.workers.dev/k2p-repo#g' /etc/opkg/distfeeds.conf" >> package/lean/default-settings/files/zzz-default-settings
+echo "sed -i 's#https://mirrors.cloud.tencent.com/lede/snapshots#https://k2p.dreamwalkerxz.workers.dev/k2p-repo#g' /etc/opkg/distfeeds.conf" >> package/lean/default-settings/files/zzz-default-settings
