@@ -25,6 +25,7 @@
 | luci-app-n2n\_v2 | 内网穿透 n2n |
 | luci-app-ttyd | 网页终端 |
 | luci-app-unblockmusic | 网易云音乐解锁 |
+| luci-app-jd-dailybonus | 京东签到 |
 | luci-app-uugamebooster | UU加速器 |
 | luci-app-sqm | 流量智能队列管理（QoS） |
 | luci-app-syncdial | 多拨 |
