@@ -17,6 +17,7 @@
 | 名称 | 功能 |
 | :--- | :--- |
 | luci-app-adbyby-plus | 广告屏蔽大师 Plus + |
+| luci-app-argon-config | Argon 主题配置 |
 | luci-app-ddns | 动态域名 DNS |
 | ddns-scripts\_aliyun 等 | 动态域名 DNS 附加插件（dnspod等服务商同理） |
 | luci-app-frpc | 内网穿透 Frp 客户端 |
