@@ -28,3 +28,23 @@ Telegram频道: 🚀[k2pfirmware](https://t.me/k2pfirmware)
 
 ![luci\_admin\_status\_overview](https://i.loli.net/2020/04/26/6TCfqUzPX9aLjyk.png)
 
+## 致谢名单
+
+- [Microsoft Azure](https://azure.microsoft.com)
+- [GitHub Actions](https://github.com/features/actions)
+- [OpenWrt](https://github.com/openwrt/openwrt)
+- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [tmate](https://github.com/tmate-io/tmate)
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
+- [csexton/debugger-action](https://github.com/csexton/debugger-action)
+- [Cowtransfer](https://cowtransfer.com)
+- [WeTransfer](https://wetransfer.com/)
+- [Mikubill/transfer](https://github.com/Mikubill/transfer)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+- [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
+- [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
+- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+
+## 许可证
+
+[MIT](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P/blob/master/LICENSE) © P3TERX & DreamWalkerXZ
