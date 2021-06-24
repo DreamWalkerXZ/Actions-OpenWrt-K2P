@@ -12,18 +12,15 @@
 
 ⚠️就算你选了"保留配置"，自定义软件包会在系统升级时被清除
 
-## 软件包名称&lt;-&gt;功能对查表\[2021-02-28\]
+## 软件包名称&lt;-&gt;功能对查表\[2021-06-24\]
 
 | 名称 | 功能 |
 | :--- | :--- |
 | luci-app-adbyby-plus | 广告屏蔽大师 Plus + |
 | luci-app-ddns | 动态域名 DNS |
-| ddns-scripts\_aliyun等 | 动态域名 DNS 附加插件（aliyun,dnspod等） |
+| ddns-scripts\_aliyun 等 | 动态域名 DNS 附加插件（dnspod等服务商同理） |
 | luci-app-frpc | 内网穿透 Frp 客户端 |
 | luci-app-frps | 内网穿透 Frp 服务端 |
-| luci-app-nps | 内网穿透 nps |
-| luci-app-n2n\_v2 | 内网穿透 n2n |
-| luci-app-ttyd | 网页终端 |
 | luci-app-unblockmusic | 网易云音乐解锁 |
 | luci-app-jd-dailybonus | 京东签到 |
 | luci-app-uugamebooster | UU加速器 |
